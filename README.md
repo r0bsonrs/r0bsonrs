@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Robson Pereira Santos
 
 - 🌱 Hoje trabalho como  Suporte nivel 2
-- 💞️ Estou estudado javascript
 
 
 <div align="center">
